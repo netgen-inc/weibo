@@ -1,0 +1,12 @@
+[submodule "convert"]
+	path = convert
+	url = git://github.com/netgen-inc/convert.git
+[submodule "sender"]
+	path = sender
+	url = git://github.com/netgen-inc/weibo_sender.git
+[submodule "deleter"]
+	path = deleter
+	url = git://github.com/netgen-inc/weibo_deleter.git
+[submodule "reciever"]
+	path = reciever
+	url = git://github.com/netgen-inc/reciever.git
